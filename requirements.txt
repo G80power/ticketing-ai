@@ -1,3 +1,5 @@
+requests
+torch
 transformers
 pandas
 psycopg
